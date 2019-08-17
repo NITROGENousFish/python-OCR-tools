@@ -1,0 +1,1 @@
+Revisiting Local Descriptor based Image-to-Class Measure for Few-shot Learning W. Li et al ( cvPr 2019
